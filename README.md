@@ -1,6 +1,5 @@
 ### Hola 👋, Soy Amilcar Sosa
 #### Ingeniero de Software
-![Ingeniero de Software](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Developer apasionado y siempre entusiasta en encontrar soluciones de software, al igual siempre en busca de aprender nuevas tecnolgias.
 
