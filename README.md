@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amilcar Sosa</h1>
-<h3 align="center">A passionate backend developer from México</h3>
+<h1 align="left">Hi 👋, I'm Amilcar Sosa</h1>
+<h3 align="left">A passionate backend developer from México</h3>
 
 Passionate Developer, always enthusiastic to find software solutions and learn new technologies
 
